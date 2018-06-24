@@ -9,4 +9,4 @@ There is a JSON-file for each letter of the alphabet. The authors names are keys
 
 # Buy me hot chocolate
 
-[Hot Cocoa](paypal.me/turtleDeveloper/1)
+[Hot Cocoa](https://www.paypal.me/turtleDeveloper/1)
